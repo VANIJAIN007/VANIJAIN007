@@ -3,7 +3,7 @@
 💻 Aspiring Software Developer | Java | Spring Boot | React.js | MySQL  
 
 - 🌱 Currently working at **Ingenuity Gaming**  
-- 🚀 Building projects with **HTML**, **CSS**, **JavaScript**, and **React**  
+- 🚀 Building projects with **HTML**, **CSS**, **JavaScript**, and **ReactJS**  
 - 🎯 Goal: Become a Fullstack SDE  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vani-jain-2042a424b)  
 
