@@ -17,12 +17,6 @@
 
 ---
 
-## 🔹 GitHub Stats
-![Vani's GitHub stats](https://github-readme-stats.vercel.app/api?username=VANIJAIN007&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VANIJAIN007&layout=compact&theme=radical)  
-
----
-
 ## 🔹 Featured Projects
 - 📧 [Automailer (Spring Boot)](https://github.com/VANIJAIN007/automailer-springboot)  
 - 🌐 [Web Development Assignments](https://vanijain007.github.io/AssignmentsTraining/)  
