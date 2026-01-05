@@ -20,4 +20,5 @@
 ## 🔹 Featured Projects
 - 📧 [Automailer (Spring Boot)](https://github.com/VANIJAIN007/automailer-springboot)  
 - 🌐 [Web Development Assignments](https://vanijain007.github.io/AssignmentsTraining/)  
-- 🎮 [PixiJS Game](https://vanijain007.github.io/Pixijs_rewind/Assignment-10/index.html)  
+- 🎮 [PixiJS Game](https://vanijain007.github.io/Pixijs_rewind/Assignment-10/index.html)
+- 🧪 [Rick & Morty Character Explorer (React, REST API)](https://rickmorty-react-2ngexy1bi-vanijain007s-projects.vercel.app/)
