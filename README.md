@@ -34,9 +34,9 @@
 
 <p align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=VANIJAIN007&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VANIJAIN007&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VANIJAIN007&layout=compact&theme=radical&hide_border=true&border_radius=10" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VANIJAIN007&layout=compact&theme=tokyonight"/>
 
 </p>
 
