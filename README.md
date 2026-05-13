@@ -92,6 +92,7 @@ A ReactJS application using REST APIs to explore Rick & Morty characters.
 🔗 Repository:  
 
 https://rickmorty-react-2ngexy1bi-vanijain007s-projects.vercel.app/
+
 ---
 
 # 🏆 Achievements
