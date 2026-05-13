@@ -110,11 +110,11 @@ https://rickmorty-react-2ngexy1bi-vanijain007s-projects.vercel.app/
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.linkedin.com/in/vani-jain-2042a424b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:vanijain767@gmail.com">
   <img src="https://img.shields.io/badge/Email-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
