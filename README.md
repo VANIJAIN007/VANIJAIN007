@@ -60,12 +60,19 @@
 
 # 🌟 Featured Projects
 
-## 📧 Automailer (Spring Boot)
+## 📧 Automailer (Spring Boot,Java)
 
-An email automation project built using Spring Boot.
+An email automation project built using Spring Boot and java.
 
 🔗 Repository:  
-https://github.com/VANIJAIN007
+https://github.com/VANIJAIN007/automailer-springboot
+
+## 📧 URL Shortener (Spring Boot,Java)
+
+An url shortener project built using Spring Boot and java.
+
+🔗 Repository:  
+https://github.com/VANIJAIN007/url-shortener
 
 ---
 
@@ -83,8 +90,7 @@ https://github.com/VANIJAIN007
 A ReactJS application using REST APIs to explore Rick & Morty characters.
 
 🔗 Repository:  
-https://github.com/VANIJAIN007
-
+https://rickmorty-react-2ngexy1bi-vanijain007s-projects.vercel.app/
 ---
 
 # 🏆 Achievements
